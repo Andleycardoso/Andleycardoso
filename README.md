@@ -4,7 +4,7 @@
 
 Transformo processos, dados e automação em sistemas de decisão mais claros, governáveis e escaláveis.
 
-Minha atuação conecta **negócio, processos, BI, Analytics e automação** com uma evolução contínua em **Engenharia de Dados, arquitetura de software e desenvolvimento assistido por IA**.
+Minha atuação conecta **negócio, processos, BI, Analytics e automação**, enquanto amplio essa base com Engenharia de Dados, arquitetura e desenvolvimento assistido por IA.
 
 ---
 
@@ -12,9 +12,9 @@ Minha atuação conecta **negócio, processos, BI, Analytics e automação** com
 
 Sou Engenheiro de Produção com experiência em ambientes industriais e corporativos, atuando na transformação de problemas de negócio em soluções orientadas por dados.
 
-Minha base profissional foi construída na interseção entre **processos, melhoria contínua e tomada de decisão**. Ao longo dessa trajetória, BI e Analytics se tornaram instrumentos para compreender operações, estruturar indicadores e transformar informação em ação. A automação ampliou essa capacidade ao conectar dados, fluxos e pessoas em processos mais consistentes.
+Minha base profissional está na interseção entre **processos, melhoria contínua e tomada de decisão**. BI e Analytics ampliaram essa capacidade ao transformar informação em ação; a automação passou a conectar dados, fluxos e pessoas em processos mais consistentes.
 
-Hoje, avanço essa mesma lógica para Engenharia de Dados, arquitetura e IA: não como substituição da base anterior, mas como expansão da capacidade de construir sistemas mais sólidos e escaláveis.
+Hoje avanço essa mesma lógica para Engenharia de Dados, arquitetura e IA — como expansão de uma base já consolidada, não como substituição dela.
 
 ## Como penso soluções
 
@@ -32,32 +32,25 @@ Automação e integração
 Arquitetura e evolução
 ```
 
-Meu princípio é simples: **tecnologia é meio; clareza sobre o problema e qualidade da decisão vêm primeiro.**
+**Tecnologia é meio; clareza sobre o problema e qualidade da decisão vêm primeiro.**
 
-## Áreas de atuação
+## Competências e ferramentas
 
-- **BI & Analytics** — modelagem analítica, Power BI, DAX, Power Query e construção de sistemas de decisão.
-- **Transformação de Processos** — diagnóstico, melhoria contínua, estruturação e governança de fluxos de trabalho.
-- **Automação** — Power Automate, Power Platform e integração de processos, dados e serviços.
-- **Data Engineering** — Python, SQL, ambientes de desenvolvimento, pipelines e fundamentos de engenharia de dados.
-- **Architecture & AI-assisted Engineering** — Git, GitHub, arquitetura de software, specification-driven development e uso governado de agentes de IA.
+**BI & Analytics**  
+Power BI · DAX · Power Query · SQL · Excel  
+Modelagem analítica, indicadores e sistemas de apoio à decisão.
 
-## Tecnologias e ferramentas
+**Transformação de Processos & Automação**  
+Power Automate · Power Platform · SharePoint  
+Diagnóstico, melhoria contínua, estruturação, governança e integração de fluxos de trabalho.
 
-**Data & Analytics**  
-Power BI · DAX · Power Query · SQL · Excel
+**Data & Engineering**  
+Python · Git · GitHub · Jupyter · VS Code  
+Engenharia de Dados, ambientes de desenvolvimento e práticas de engenharia aplicadas à evolução de soluções.
 
-**Automation & Business Applications**  
-Power Automate · Power Platform · SharePoint
-
-**Engineering**  
-Python · Git · GitHub · Jupyter · VS Code
-
-**Web & Product Engineering**  
-Next.js · TypeScript · React · Vercel
-
-**AI-assisted Development**  
-AI Agents · Specification-driven Engineering · Context & Knowledge Governance
+**Tecnologias aplicadas a produtos digitais**  
+Next.js · TypeScript · React · Vercel  
+Tecnologias utilizadas na construção e evolução de experiências digitais da DataPulseNext.
 
 ## Construindo agora — DataPulseNext
 
@@ -66,24 +59,18 @@ A **DataPulseNext** é o ecossistema que estou construindo para transformar expe
 O projeto evolui em três frentes complementares:
 
 - **Foundation** — princípios, arquitetura, governança e conhecimento compartilhado;
-- **Digital Experience** — presença institucional e experiência Web;
+- **Digital Experience** — presença institucional e experiência digital;
 - **Content System** — sistema editorial e automação do ciclo de vida de conteúdo.
 
-Os componentes operacionais centrais permanecem privados enquanto evoluem. O que aparece publicamente aqui representa deliberadamente conhecimento, experimentos e projetos adequados para portfólio aberto.
+Os componentes operacionais centrais permanecem privados enquanto evoluem. O portfólio público é construído deliberadamente para compartilhar conhecimento e evidências técnicas sem expor ativos internos do ecossistema.
 
-## Em evolução contínua
+## Foco atual de evolução
 
-Atualmente aprofundo minha formação e prática em:
+Aprofundo minha formação e prática em **Engenharia de Dados e IA**, Python aplicado a dados e automação, arquitetura de software, Git e workflows de desenvolvimento.
 
-- Engenharia de Dados e IA;
-- Python aplicado a dados e automação;
-- arquitetura e engenharia de software;
-- Git e workflows de desenvolvimento;
-- agentes de IA e automação assistida;
-- specification-driven engineering;
-- governança de contexto e conhecimento.
+Também exploro práticas de **AI-assisted engineering**, specification-driven development e governança de contexto e conhecimento para construir sistemas capazes de evoluir com mais consistência.
 
-A direção é ampliar a capacidade de sair de **análises isoladas** para **sistemas de decisão, automação e conhecimento que evoluem com consistência**.
+A direção é ampliar a capacidade de sair de **análises isoladas** para **sistemas de decisão, automação e conhecimento sustentáveis**.
 
 ## Princípio de trabalho
 
