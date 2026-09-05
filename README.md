@@ -82,5 +82,5 @@ Construir rápido é útil. Construir de forma que o próximo passo fique mais s
 
 ### Conecte-se comigo
 
-**DataPulseNext** — BI, Analytics, Automação, Engenharia de Dados e IA aplicada.  
-**LinkedIn** — conteúdo sobre dados, processos, estratégia, automação e evolução profissional.
+**[DataPulseNext](https://datapulsenext.com)** — BI, Analytics, Automação, Engenharia de Dados e IA aplicada.  
+**[LinkedIn](https://www.linkedin.com/in/andley-cardoso-0a3578135/)** — conteúdo sobre dados, processos, estratégia, automação e evolução profissional.
